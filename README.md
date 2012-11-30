@@ -6,6 +6,7 @@ Game to crack the code in 10 attempts
 This game is inspired by the Mastermind game. 
 
 Objective is to Crack the code using characters VIBGYOR rainbow colors. 
+<br>
 V - Violet
 I - Indigo
 B - Blue
